@@ -25,7 +25,7 @@ fetch("https://raw.githubusercontent.com/marsh-github/cookie-clicker-mod/refs/he
 
 ![A screenshot of the GUI.](https://raw.githubusercontent.com/marsh-github/cookie-clicker-mod/refs/heads/main/images/gui-preview.png)
 ![My cookie count.](https://raw.githubusercontent.com/marsh-github/cookie-clicker-mod/refs/heads/main/images/cookie-count.png)
-![My achievements.](https://raw.githubusercontent.com/marsh-github/cookie-clicker-mod/refs/heads/main/images/achivements.png)
+![My achievements.](https://raw.githubusercontent.com/marsh-github/cookie-clicker-mod/refs/heads/main/images/achievements.png)
 
 ---
 
