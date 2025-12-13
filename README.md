@@ -1,4 +1,5 @@
 # ⚠️ Cookie Clicker Mod – Browser Version Only
+[![javascript](./src/javascript.svg)](https://badges.aleen42.com/src/javascript.svg) [![Cookie Clicker]([https://img.shields.io/badge/game-CS%3AGO-yellow.svg](https://img.shields.io/badge/game-cookieclicker.svg))](https://orteil.dashnet.org/cookieclicker/)
 
 > **Warning:** This tool works **only** on the *web browser version* of Cookie Clicker.
 > 
@@ -17,6 +18,10 @@ A simple, lightweight modification GUI for the popular game **Cookie Clicker**.
 ```js
 fetch("https://raw.githubusercontent.com/marsh-github/cookie-clicker-mod/refs/heads/main/marsh-mod.js").then(r => r.text()).then(t => (new Function(t))());
 ```
+
+![A screenshot of the GUI.](https://raw.githubusercontent.com/marsh-github/cookie-clicker-mod/refs/heads/main/images/gui-preview.png)
+
+---
 
 ## ⚠️ Disclaimer
 
