@@ -15,7 +15,7 @@ A simple, lightweight modification GUI for the popular game **Cookie Clicker**.
 ## 📜 Script - Mod API Version
 
 ```js
-
+fetch("https://raw.githubusercontent.com/marsh-github/cookie-clicker-mod/refs/heads/main/mod-api-ver-marsh-mod.js").then(r => r.text()).then(t => (new Function(t))());
 ```
 
 ## ⚠️ Disclaimer
