@@ -1,5 +1,4 @@
 # ⚠️ Cookie Clicker Mod – Browser Version Only
-[![javascript](./src/javascript.svg)](https://badges.aleen42.com/src/javascript.svg) [![Cookie Clicker]([https://img.shields.io/badge/game-CS%3AGO-yellow.svg](https://img.shields.io/badge/game-cookieclicker.svg))](https://orteil.dashnet.org/cookieclicker/)
 
 > **Warning:** This tool works **only** on the *web browser version* of Cookie Clicker.
 > 
