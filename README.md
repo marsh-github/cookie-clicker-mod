@@ -1,5 +1,5 @@
 # ⚠️ Cookie Clicker Mod – Browser Version Only
-
+![mit](https://img.shields.io/badge/MIT-green) ![js](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
 > **Warning:** This tool works **only** on the *web browser version* of Cookie Clicker.
 > 
 > Use it responsibly. I (marsh-github) am **not** liable for corrupted saves, lost progress, or any other issues caused by running this script.
